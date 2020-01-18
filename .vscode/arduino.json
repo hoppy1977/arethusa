@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "arethusa.ino",
+    "output": "./ArduinoOutput"
+}
